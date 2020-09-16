@@ -3,10 +3,3 @@ hi
 =======
 Hi
 >>>>>>> master
-hi
-
-hi
-hi
-
-Hi
-hi
